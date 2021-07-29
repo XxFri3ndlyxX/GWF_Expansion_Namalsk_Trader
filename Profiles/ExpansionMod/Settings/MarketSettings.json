@@ -1,0 +1,227 @@
+{
+    "m_Version": 2,
+    "MarketSystemEnabled": 1,
+    "NetworkCategories": [],
+    "MarketMenuColors": {
+        "BaseColorVignette": -939524096,
+        "BaseColorHeaders": -15526117,
+        "BaseColorLabels": -14211283,
+        "BaseColorTexts": -262914,
+        "BaseColorCheckboxes": -262914,
+        "BaseColorInfoSectionBackground": -1943919322,
+        "BaseColorTooltipsCorners": -262914,
+        "BaseColorTooltipsSeperatorLine": -19432,
+        "BaseColorTooltipsBackground": -14211283,
+        "ColorDecreaseQuantityButton": 350037542,
+        "ColorDecreaseQuantityIcon": 685581862,
+        "ColorSetQuantityButton": 348595793,
+        "ColorIncreaseQuantityButton": 346082417,
+        "ColorIncreaseQuantityIcon": 681626737,
+        "ColorSellPanel": -14211283,
+        "ColorSellButton": 685581862,
+        "ColorBuyPanel": -14211283,
+        "ColorBuyButton": 681626737,
+        "ColorMarketIcon": -1931329214,
+        "ColorFilterOptionsButton": -1933105583,
+        "ColorFilterOptionsIcon": -1933105583,
+        "ColorSearchFilterButton": -1933105583,
+        "ColorCategoryButton": -1933105583,
+        "ColorCategoryCollapseIcon": -1933105583,
+        "ColorCurrencyDenominationTexts": -19432,
+        "ColorItemButton": -1933105583,
+        "ColorItemInfoIcon": -19432,
+        "ColorItemInfoTitle": -19432,
+        "ColorItemInfoHasContainerItems": -19432,
+        "ColorItemInfoHasAttachments": -19432,
+        "ColorItemInfoHasBullets": -19432,
+        "ColorItemInfoIsAttachment": -19432,
+        "ColorItemInfoIsEquiped": -19432,
+        "ColorItemInfoAttachments": -19432,
+        "ColorToggleCategoriesText": -1933105583,
+        "ColorCategoryCorners": -262914,
+        "ColorCategoryBackground": -14539482
+    },
+    "MarketAmmoBoxes": [
+        {
+            "Ammo": "Ammo_556x45",
+            "AmmoBox": "AmmoBox_556x45_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_556x45Tracer",
+            "AmmoBox": "AmmoBox_556x45Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_545x39",
+            "AmmoBox": "AmmoBox_545x39_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_545x39Tracer",
+            "AmmoBox": "AmmoBox_545x39Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x39",
+            "AmmoBox": "AmmoBox_762x39_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x39Tracer",
+            "AmmoBox": "AmmoBox_762x39Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_308Win",
+            "AmmoBox": "AmmoBox_308Win_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_308WinTracer",
+            "AmmoBox": "AmmoBox_308WinTracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x54",
+            "AmmoBox": "AmmoBox_762x54_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x54Tracer",
+            "AmmoBox": "AmmoBox_762x54Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_22",
+            "AmmoBox": "AmmoBox_22_50Rnd"
+        },
+        {
+            "Ammo": "Ammo_380",
+            "AmmoBox": "AmmoBox_380_35rnd"
+        },
+        {
+            "Ammo": "Ammo_9x19",
+            "AmmoBox": "AmmoBox_9x19_25rnd"
+        },
+        {
+            "Ammo": "Ammo_45ACP",
+            "AmmoBox": "AmmoBox_45ACP_25rnd"
+        },
+        {
+            "Ammo": "Ammo_357",
+            "AmmoBox": "AmmoBox_357_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_00buck",
+            "AmmoBox": "AmmoBox_00buck_10rnd"
+        },
+        {
+            "Ammo": "Ammo_12gaSlug",
+            "AmmoBox": "AmmoBox_12gaSlug_10Rnd"
+        },
+        {
+            "Ammo": "Ammo_12gaRubberSlug",
+            "AmmoBox": "AmmoBox_12gaRubberSlug_10Rnd"
+        },
+        {
+            "Ammo": "Ammo_9x39AP",
+            "AmmoBox": "AmmoBox_9x39AP_20rnd"
+        },
+        {
+            "Ammo": "Ammo_9x39",
+            "AmmoBox": "AmmoBox_9x39_20rnd"
+        },
+        {
+            "Ammo": "Expansion_Ammo_8mm",
+            "AmmoBox": "Expansion_AmmoBox_8mm_15rnd"
+        },
+        {
+            "Ammo": "Ammo_Expansion_46x30",
+            "AmmoBox": "AmmoBox_Expansion_46x30_25rnd"
+        },
+        {
+            "Ammo": "Ammo_Expansion_338",
+            "AmmoBox": "AmmoBox_Expansion_338_15rnd"
+        }
+    ],
+    "CurrencyIcon": "DayZExpansion/Market/GUI/icons/coinstack2_64x64.edds",
+    "ATMSystemEnabled": 1,
+    "MaxDepositMoney": 100000,
+    "DefaultDepositMoney": 10000,
+    "ATMPlayerTransferEnabled": 1,
+    "ATMPartyLockerEnabled": 1,
+    "MaxPartyDepositMoney": 100000,
+    "MarketVIPs": [
+
+    ],
+    "SellPricePercent": 75.0,
+    "LandSpawnPositions": [
+        {
+            "Position": [
+                8589.538086,
+                14.736136,
+                10495.644531
+            ],
+            "Direction": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position":[
+                8596.997070, 
+                14.732439, 
+                10507.708008
+            ],
+            "Direction": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "AirSpawnPositions": [
+        {
+            "Position": [
+                6317.818848,
+                20.660490,
+                9491.293945
+            ],
+            "Direction": [
+                50.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                6318.666504,
+                20.779686,
+                9463.446289
+            ],
+            "Direction": [
+                50.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "WaterSpawnPositions": [
+        {
+            "Position": [
+                8064.089844,
+                0.166755,
+                7609.062500
+            ],
+            "Direction": [
+                100.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                8034.816895,
+                0.166755,
+                7567.203125
+            ],
+            "Direction": [
+                100.0,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}
