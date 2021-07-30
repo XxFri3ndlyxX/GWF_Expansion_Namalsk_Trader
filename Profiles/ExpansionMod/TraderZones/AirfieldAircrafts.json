@@ -1,0 +1,32 @@
+{
+    "m_Version": 4,
+    "m_ZoneName": "AirfieldAircrafts",
+    "m_DisplayName": "Namalsk Airfield Aircrafts Trading Zone",
+    "Position": [
+        6305.2822265625,
+        20.692441940307618,
+        9516.056640625
+    ],
+    "Radius": 100.0,
+    "PricePercent": 100.0,
+    "Stock": {
+        "expansion_mh6_door_1_1": 100,
+        "expansiongyrocopter": 10000,
+        "expansion_mh6_door_1_2": 100,
+        "expansionuh1hdoor_1_1": 100,
+        "expansionhydraulichoses": 100,
+        "expansion_mh6_door_2_1": 100,
+        "tirerepairkit": 100,
+        "canistergasoline": 100,
+        "expansionmh6": 10000,
+        "expansionmerlin": 10000,
+        "expansionmerlinbackwheel": 100,
+        "expansionuh1h": 10000,
+        "expansioncarkey": 100,
+        "headlighth7_box": 100,
+        "expansionuh1hdoor_1_2": 100,
+        "expansion_mh6_door_2_2": 100,
+        "expansionmerlinfrontwheel": 100,
+        "expansionhelicopterbattery": 100
+    }
+}
