@@ -1,0 +1,28 @@
+You will have to add these coordinate to your MarketSettings.json
+
+put these two in LandSpawnPositions
+
+        {
+            "Position":[
+                5424.745605, 
+                2.012388, 
+                11564.423828
+            ],
+            "Direction": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position":[
+                5437.649902, 
+                2.012388, 
+                11548.834961
+            ],
+            "Direction": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
