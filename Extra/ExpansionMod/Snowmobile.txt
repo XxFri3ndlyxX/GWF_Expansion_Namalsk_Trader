@@ -1,4 +1,5 @@
 You will have to add these coordinate to your MarketSettings.json
+Those are the spawnzone for Savage Snowmobile.
 
 put these two in LandSpawnPositions
 
