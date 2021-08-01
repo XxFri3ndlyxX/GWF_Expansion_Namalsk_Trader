@@ -1,0 +1,50 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Snowmobile",
+    "Items": [
+        {
+            "ClassName": "SavageSherpa_red",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2000,
+            "MaxStockThreshold": 10000,
+            "MinStockThreshold": 1,
+            "PurchaseType": 1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": [
+                "SavageSherpa_yellow",
+                "SavageSherpa_purple",
+                "SavageSherpa_mint",
+                "SavageSherpa_green",
+                "SavageSherpa_brown",
+                "SavageSherpa_blue",
+                "SavageSherpa_pink",
+                "SavageSherpa_black",
+                "SavageSherpa_savage",
+                "SavageSherpa_sport_yellow",
+                "SavageSherpa_sport_red",
+                "SavageSherpa_sport_purple",
+                "SavageSherpa_sport_mint",
+                "SavageSherpa_sport_green",
+                "SavageSherpa_sport_brown",
+                "SavageSherpa_sport_blue",
+                "SavageSherpa_sport_pink",
+                "SavageSherpa_sport_black"
+            ]
+        },
+        {
+            "ClassName": "SavageSNO_RearBag",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
