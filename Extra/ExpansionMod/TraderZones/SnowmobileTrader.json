@@ -1,0 +1,37 @@
+{
+    "m_Version": 4,
+    "m_ZoneName": "SnowmobileTrader",
+    "m_DisplayName": "Namalsk Snowmobile Trading Zone",
+    "Position": [
+        5431.7900390625,
+        2.990000009536743,
+        11556.099609375
+    ],
+    "Radius": 100.0,
+    "PricePercent": 100.0,
+    "Stock": {
+        "savagesherpa_sport_yellow": 1000,
+        "savagesherpa_sport_mint": 1000,
+        "savagesherpa_sport_black": 1000,
+        "savagesno_rearbag": 998,
+        "sparkplug": 1000,
+        "savagesherpa_brown": 1000,
+        "savagesherpa_blue": 1000,
+        "savagesherpa_red": 999,
+        "savagesherpa_mint": 1000,
+        "savagesherpa_purple": 1000,
+        "carbattery": 1000,
+        "savagesherpa_sport_green": 1000,
+        "savagesherpa_black": 999,
+        "savagesherpa_savage": 1000,
+        "savagesherpa_yellow": 1000,
+        "savagesherpa_pink": 1000,
+        "savagesherpa_sport_blue": 1000,
+        "headlighth7": 1000,
+        "savagesherpa_green": 1000,
+        "savagesherpa_sport_red": 999,
+        "savagesherpa_sport_purple": 1000,
+        "savagesherpa_sport_pink": 1000,
+        "savagesherpa_sport_brown": 1000
+    }
+}
