@@ -1,0 +1,36 @@
+{
+    "m_Version": 5,
+    "TraderName": "Vehicles",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLES",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Items": {
+        "SavageSherpa_yellow": 1,
+        "SavageSherpa_red": 1,
+        "SavageSherpa_purple": 1,
+        "SavageSherpa_mint": 1,
+        "SavageSherpa_green": 1,
+        "SavageSherpa_brown": 1,
+        "SavageSherpa_blue": 1,
+        "SavageSherpa_pink": 1,
+        "SavageSherpa_black": 1,
+        "SavageSherpa_savage": 1,
+        "SavageSherpa_sport_yellow": 1,
+        "SavageSherpa_sport_red": 1,
+        "SavageSherpa_sport_purple": 1,
+        "SavageSherpa_sport_mint": 1,
+        "SavageSherpa_sport_green": 1,
+        "SavageSherpa_sport_brown": 1,
+        "SavageSherpa_sport_blue": 1,
+        "SavageSherpa_sport_pink": 1,
+        "SavageSherpa_sport_black": 1,
+        "SavageSNO_RearBag": 1,
+        "carbattery": 1,
+        "SparkPlug": 1,
+        "HeadlightH7": 1
+    }
+}
