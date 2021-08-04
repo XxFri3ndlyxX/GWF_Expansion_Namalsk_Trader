@@ -1,82 +1,56 @@
-This will show on the map where traders are.
+This will show on the map where traders are. If you do not use snowmobile trader in the extra folder then delete the marker below.
 In settings/MapSettings.json add
 "ServerMarkers": [
         {
-            "m_UID": "ServerMarker_Trader_Krasno",
+            "m_UID": "SnowmobileTrader",
             "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Traders - Krasnostav Airstrip",
+            "m_Is3D": 0,
+            "m_Text": "Namalsk Snowmobile Trading Zone",
             "m_IconName": "Trader",
             "m_Color": -13710223,
             "m_Position": [
-                11882.0,
-                143.0,
-                12466.0
+                5431.7900390625,
+                2.990000009536743,
+                11556.099609375
             ]
         },
         {
-            "m_UID": "ServerMarker_Trader_Kamenka",
+            "m_UID": "AirfieldAircrafts",
             "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Traders - Kamenka",
+            "m_Is3D": 0,
+            "m_Text": "Namalsk Airfield Aircrafts Trading Zone",
             "m_IconName": "Trader",
             "m_Color": -13710223,
             "m_Position": [
-                1101.0,
-                8.0,
-                2382.0
+                6305.2822265625,
+                20.692441940307618,
+                9516.056640625
             ]
         },
         {
-            "m_UID": "ServerMarker_Boats_Kamenka",
+            "m_UID": "JaloviskoGeneralTrader",
             "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Boats - Kamenka",
-            "m_IconName": "Boat",
-            "m_Color": -13710223,
-            "m_Position": [
-                1756.0,
-                4.0,
-                2027.0
-            ]
-        },
-        {
-            "m_UID": "ServerMarker_Aircrafts_Balota",
-            "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Aircrafts - Balota",
-            "m_IconName": "Helicopter",
-            "m_Color": -13710223,
-            "m_Position": [
-                4973.0,
-                12.0,
-                2436.0
-            ]
-        },
-        {
-            "m_UID": "ServerMarker_Boats_Svetloyarsk",
-            "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Boats & Fishing - Svetloyarsk",
-            "m_IconName": "Boat",
-            "m_Color": -13710223,
-            "m_Position": [
-                14379.0,
-                6.0,
-                13256.0
-            ]
-        },
-        {
-            "m_UID": "ServerMarker_Trader_Green_Montain",
-            "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Trader - Green Montain",
+            "m_Is3D": 0,
+            "m_Text": "Namalsk Jalovisko General Trading Zone",
             "m_IconName": "Trader",
             "m_Color": -13710223,
             "m_Position": [
-                3698.0,
-                405.0,
-                5988.0
+                8588.8115234375,
+                14.732501029968262,
+                10511.158203125
+            ]
+        },
+        {
+            "m_UID": "TaraHarborBoatTrader",
+            "m_Visibility": 6,
+            "m_Is3D": 0,
+            "m_Text": "Namalsk Tara Harbor Boat Trading Zone",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                8034.52490234375,
+                3.5620779991149904,
+                7600.4228515625
             ]
         }
     ],
